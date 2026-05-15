@@ -110,6 +110,12 @@ Experimenting with AI orchestration, multi-agent systems, and autonomous workflo
 
 # 🧩 Currently Learning
 
+* 🧠 Advanced Deep Learning Architectures
+* 🔍 AI-powered Security Systems
+* ⚙️ LLMs & Autonomous Agents
+* 📡 Real-time Computer Vision
+* ☁️ Scalable AI Deployment
+  
 <p align="center">
   <img 
     src="https://media.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif" 
@@ -117,13 +123,6 @@ Experimenting with AI orchestration, multi-agent systems, and autonomous workflo
     width="500"
   />
 </p>
-
-* 🧠 Advanced Deep Learning Architectures
-* 🔍 AI-powered Security Systems
-* ⚙️ LLMs & Autonomous Agents
-* 📡 Real-time Computer Vision
-* ☁️ Scalable AI Deployment
-
 ---
 
 # 🎮 Fun Zone
