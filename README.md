@@ -153,7 +153,7 @@ Sleep  ██░░░░░░░░░░░░░  10%
 <img src="https://img.shields.io/badge/GitHub-Parth--Panwar-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://in.linkedin.com/in/parth-panwar-b88007328">
 <img src="https://img.shields.io/badge/LinkedIn-Parth%20Panwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
